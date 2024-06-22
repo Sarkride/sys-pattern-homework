@@ -41,7 +41,7 @@
     Сделайте git push origin master.
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
-https://github.com/Sarkride/7-6hw/blob/main/README.md
+https://github.com/Sarkride/7-6hw/commit/870d4e7aecc10045e11223c18d0078c76d0a9399
 
 ### Задание 2
 
@@ -53,7 +53,7 @@ https://github.com/Sarkride/7-6hw/blob/main/README.md
     Сделайте коммит и пуш.
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
-https://github.com/Sarkride/7-6hw/blob/main/.gitignore
+https://github.com/Sarkride/7-6hw/tree/7d38af3b78b819d82ebd85304796b46a85817dbd
 
 ### Задание 3
 

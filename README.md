@@ -53,7 +53,7 @@ https://github.com/Sarkride/7-6hw/commit/870d4e7aecc10045e11223c18d0078c76d0a939
     Сделайте коммит и пуш.
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
-https://github.com/Sarkride/7-6hw/tree/7d38af3b78b819d82ebd85304796b46a85817dbd
+https://github.com/Sarkride/7-6hw/commit/5314074c778c9b8b238a420d6ace66db4c8473d0
 
 ### Задание 3
 
